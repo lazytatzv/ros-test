@@ -1,0 +1,1 @@
+/home/tatsv/ros-test/build/turtlesim/rosidl_typesupport_introspection_c/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_c.h

@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target my_chatter[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/my_chatter.dir/src/my_chatter.cpp.o[0m
+[100%] [32m[1mLinking CXX executable my_chatter[0m
+[100%] Built target my_chatter
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/lib/my_chatter_package/my_chatter
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/ament_index/resource_index/package_run_dependencies/my_chatter_package
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/ament_index/resource_index/parent_prefix_path/my_chatter_package
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/ament_prefix_path.sh
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/ament_prefix_path.dsv
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/path.sh
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/path.dsv
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.bash
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.sh
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.zsh
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.dsv
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/package.dsv
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/ament_index/resource_index/packages/my_chatter_package
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/cmake/my_chatter_packageConfig.cmake
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/cmake/my_chatter_packageConfig-version.cmake
+-- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/package.xml

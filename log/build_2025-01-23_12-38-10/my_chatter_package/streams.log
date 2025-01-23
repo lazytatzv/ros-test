@@ -1,0 +1,26 @@
+[0.032s] Invoking command in '/home/tatsv/ros-test/build/my_chatter_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tatsv/ros-test/build/my_chatter_package -- -j12 -l12
+[0.109s] [35m[1mConsolidate compiler generated dependencies of target my_chatter[0m
+[0.139s] [ 50%] [32mBuilding CXX object CMakeFiles/my_chatter.dir/src/my_chatter.cpp.o[0m
+[6.019s] [100%] [32m[1mLinking CXX executable my_chatter[0m
+[6.298s] [100%] Built target my_chatter
+[6.316s] Invoked command in '/home/tatsv/ros-test/build/my_chatter_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tatsv/ros-test/build/my_chatter_package -- -j12 -l12
+[6.321s] Invoking command in '/home/tatsv/ros-test/build/my_chatter_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/tatsv/ros-test/build/my_chatter_package
+[6.330s] -- Install configuration: ""
+[6.331s] -- Execute custom install script
+[6.333s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/lib/my_chatter_package/my_chatter
+[6.347s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/ament_index/resource_index/package_run_dependencies/my_chatter_package
+[6.361s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/ament_index/resource_index/parent_prefix_path/my_chatter_package
+[6.375s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/ament_prefix_path.sh
+[6.388s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/ament_prefix_path.dsv
+[6.402s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/path.sh
+[6.417s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/path.dsv
+[6.436s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.bash
+[6.451s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.sh
+[6.463s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.zsh
+[6.476s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.dsv
+[6.490s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/package.dsv
+[6.504s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/ament_index/resource_index/packages/my_chatter_package
+[6.520s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/cmake/my_chatter_packageConfig.cmake
+[6.533s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/cmake/my_chatter_packageConfig-version.cmake
+[6.548s] -- Symlinking: /home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/package.xml
+[6.567s] Invoked command in '/home/tatsv/ros-test/build/my_chatter_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/tatsv/ros-test/build/my_chatter_package

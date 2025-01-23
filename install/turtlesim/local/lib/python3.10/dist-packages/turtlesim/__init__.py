@@ -1,0 +1,1 @@
+/home/tatsv/ros-test/build/turtlesim/rosidl_generator_py/turtlesim/__init__.py

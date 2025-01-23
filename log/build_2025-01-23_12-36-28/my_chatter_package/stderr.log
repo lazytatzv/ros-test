@@ -1,0 +1,14 @@
+[01m[K/home/tatsv/ros-test/src/my_chatter_package/src/my_chatter.cpp:22:5:[m[K [01;31m[Kerror: [m[K‘[01m[Krcl[m[K’ does not name a type
+   22 |     [01;31m[Krcl[m[K
+      |     [01;31m[K^~~[m[K
+[01m[K/home/tatsv/ros-test/src/my_chatter_package/src/my_chatter.cpp:23:2:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ after class definition
+   23 | }
+      |  [01;31m[K^[m[K
+      |  [32m[K;[m[K
+[01m[K/home/tatsv/ros-test/src/my_chatter_package/src/my_chatter.cpp:[m[K In constructor ‘[01m[KmyPublisher::myPublisher()[m[K’:
+[01m[K/home/tatsv/ros-test/src/my_chatter_package/src/my_chatter.cpp:17:28:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[KmyPublisher[m[K’ does not have any field named ‘[01m[Kcount_[m[K’
+   17 |     : Node("myPublisher"), [01;31m[Kcount_[m[K(0)
+      |                            [01;31m[K^~~~~~[m[K
+gmake[2]: *** [CMakeFiles/my_chatter.dir/build.make:76: CMakeFiles/my_chatter.dir/src/my_chatter.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/my_chatter.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

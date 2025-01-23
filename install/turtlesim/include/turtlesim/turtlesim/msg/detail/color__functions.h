@@ -1,0 +1,1 @@
+/home/tatsv/ros-test/build/turtlesim/rosidl_generator_c/turtlesim/msg/detail/color__functions.h

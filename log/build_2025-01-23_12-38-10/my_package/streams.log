@@ -1,0 +1,24 @@
+[0.041s] Invoking command in '/home/tatsv/ros-test/build/my_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tatsv/ros-test/build/my_package -- -j12 -l12
+[0.096s] [35m[1mConsolidate compiler generated dependencies of target my_node[0m
+[0.118s] [100%] Built target my_node
+[0.136s] Invoked command in '/home/tatsv/ros-test/build/my_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tatsv/ros-test/build/my_package -- -j12 -l12
+[0.158s] Invoking command in '/home/tatsv/ros-test/build/my_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/tatsv/ros-test/build/my_package
+[0.169s] -- Install configuration: ""
+[0.170s] -- Execute custom install script
+[0.171s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/lib/my_package/my_node
+[0.172s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+[0.173s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+[0.173s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/environment/ament_prefix_path.sh
+[0.174s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+[0.174s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/environment/path.sh
+[0.175s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/environment/path.dsv
+[0.175s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/local_setup.bash
+[0.175s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/local_setup.sh
+[0.175s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/local_setup.zsh
+[0.176s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/local_setup.dsv
+[0.176s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/package.dsv
+[0.191s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/ament_index/resource_index/packages/my_package
+[0.192s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+[0.192s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+[0.192s] -- Up-to-date symlink: /home/tatsv/ros-test/install/my_package/share/my_package/package.xml
+[0.198s] Invoked command in '/home/tatsv/ros-test/build/my_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/tatsv/ros-test/build/my_package

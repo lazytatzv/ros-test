@@ -1,0 +1,61 @@
+[0.052s] Invoking command in '/home/tatsv/ros-test/build/my_chatter_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/tatsv/ros-test/src/my_chatter_package -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tatsv/ros-test/install/my_chatter_package
+[0.312s] -- The C compiler identification is GNU 11.4.0
+[0.945s] -- The CXX compiler identification is GNU 11.4.0
+[1.276s] -- Detecting C compiler ABI info
+[1.527s] -- Detecting C compiler ABI info - done
+[1.553s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.554s] -- Detecting C compile features
+[1.555s] -- Detecting C compile features - done
+[1.573s] -- Detecting CXX compiler ABI info
+[1.901s] -- Detecting CXX compiler ABI info - done
+[1.918s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.919s] -- Detecting CXX compile features
+[1.919s] -- Detecting CXX compile features - done
+[1.923s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.228s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.384s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.427s] -- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+[2.702s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.711s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.724s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.747s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.775s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.852s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.857s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.026s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[7.300s] -- Found FastRTPS: /opt/ros/humble/include  
+[11.622s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[11.634s] -- Looking for pthread.h
+[11.848s] -- Looking for pthread.h - found
+[11.848s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[12.107s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[12.110s] -- Found Threads: TRUE  
+[12.206s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[12.348s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[12.348s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/tatsv/ros-test/src/my_chatter_package/include>
+[12.348s] -- Configured cppcheck exclude dirs and/or files: 
+[12.349s] -- Added test 'lint_cmake' to check CMake code style
+[12.351s] -- Added test 'uncrustify' to check C / C++ code style
+[12.351s] -- Configured uncrustify additional arguments: 
+[12.352s] -- Added test 'xmllint' to check XML markup files
+[12.354s] -- Configuring done
+[12.372s] -- Generating done
+[12.380s] -- Build files have been written to: /home/tatsv/ros-test/build/my_chatter_package
+[12.402s] Invoked command in '/home/tatsv/ros-test/build/my_chatter_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/tatsv/ros-test/src/my_chatter_package -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tatsv/ros-test/install/my_chatter_package
+[12.407s] Invoking command in '/home/tatsv/ros-test/build/my_chatter_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tatsv/ros-test/build/my_chatter_package -- -j12 -l12
+[12.477s] [ 50%] [32mBuilding CXX object CMakeFiles/my_chatter.dir/src/my_chatter.cpp.o[0m
+[18.293s] [01m[K/home/tatsv/ros-test/src/my_chatter_package/src/my_chatter.cpp:22:5:[m[K [01;31m[Kerror: [m[K‘[01m[Krcl[m[K’ does not name a type
+[18.294s]    22 |     [01;31m[Krcl[m[K
+[18.294s]       |     [01;31m[K^~~[m[K
+[18.295s] [01m[K/home/tatsv/ros-test/src/my_chatter_package/src/my_chatter.cpp:23:2:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ after class definition
+[18.295s]    23 | }
+[18.295s]       |  [01;31m[K^[m[K
+[18.295s]       |  [32m[K;[m[K
+[18.295s] [01m[K/home/tatsv/ros-test/src/my_chatter_package/src/my_chatter.cpp:[m[K In constructor ‘[01m[KmyPublisher::myPublisher()[m[K’:
+[18.295s] [01m[K/home/tatsv/ros-test/src/my_chatter_package/src/my_chatter.cpp:17:28:[m[K [01;31m[Kerror: [m[Kclass ‘[01m[KmyPublisher[m[K’ does not have any field named ‘[01m[Kcount_[m[K’
+[18.296s]    17 |     : Node("myPublisher"), [01;31m[Kcount_[m[K(0)
+[18.296s]       |                            [01;31m[K^~~~~~[m[K
+[19.348s] gmake[2]: *** [CMakeFiles/my_chatter.dir/build.make:76: CMakeFiles/my_chatter.dir/src/my_chatter.cpp.o] Error 1
+[19.348s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/my_chatter.dir/all] Error 2
+[19.349s] gmake: *** [Makefile:146: all] Error 2
+[19.354s] Invoked command in '/home/tatsv/ros-test/build/my_chatter_package' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tatsv/ros-test/build/my_chatter_package -- -j12 -l12

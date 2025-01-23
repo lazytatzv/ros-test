@@ -1,0 +1,1 @@
+/home/tatsv/ros-test/build/my_chatter_package/ament_cmake_core/my_chatter_packageConfig-version.cmake

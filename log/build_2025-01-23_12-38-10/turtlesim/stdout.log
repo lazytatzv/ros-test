@@ -1,0 +1,303 @@
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_generator_c[0m
+[  1%] Built target turtlesim__cpp
+[ 11%] Built target turtlesim__rosidl_generator_c
+[ 11%] Built target ament_cmake_python_symlink_turtlesim
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_fastrtps_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_introspection_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_introspection_c[0m
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_c[0m
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_fastrtps_c[0m
+[ 31%] Built target turtlesim__rosidl_typesupport_introspection_c
+[ 31%] Built target turtlesim__rosidl_typesupport_c
+[ 41%] Built target turtlesim__rosidl_typesupport_cpp
+[ 51%] Built target turtlesim__rosidl_typesupport_introspection_cpp
+[ 71%] Built target turtlesim__rosidl_typesupport_fastrtps_c
+[ 71%] Built target turtlesim__rosidl_typesupport_fastrtps_cpp
+[35m[1mConsolidate compiler generated dependencies of target draw_square[0m
+[35m[1mConsolidate compiler generated dependencies of target turtle_teleop_key[0m
+[35m[1mConsolidate compiler generated dependencies of target mimic[0m
+[35m[1mConsolidate compiler generated dependencies of target turtlesim_node[0m
+[ 71%] Built target turtlesim
+[ 73%] Built target draw_square
+[ 77%] Built target turtle_teleop_key
+[ 77%] Built target mimic
+[ 79%] Built target turtlesim__py
+[ 84%] Built target turtlesim_node
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_generator_py[0m
+[ 93%] Built target turtlesim__rosidl_generator_py
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_c__pyext[0m
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_introspection_c__pyext[0m
+[35m[1mConsolidate compiler generated dependencies of target turtlesim__rosidl_typesupport_fastrtps_c__pyext[0m
+[ 95%] Built target turtlesim__rosidl_typesupport_introspection_c__pyext
+[ 97%] Built target turtlesim__rosidl_typesupport_c__pyext
+[100%] Built target turtlesim__rosidl_typesupport_fastrtps_c__pyext
+running egg_info
+writing turtlesim.egg-info/PKG-INFO
+writing dependency_links to turtlesim.egg-info/dependency_links.txt
+writing top-level names to turtlesim.egg-info/top_level.txt
+reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_turtlesim_egg
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/ament_index/resource_index/rosidl_interfaces/turtlesim
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__functions.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__struct.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/rotate_absolute.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/color.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__functions.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__struct.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__functions.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__struct.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/pose.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_generator_c__visibility_control.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__functions.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__struct.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__functions.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__struct.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__functions.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__struct.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__functions.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__struct.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__functions.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__struct.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/kill.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/set_pen.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/spawn.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_absolute.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_relative.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/environment/library_path.sh
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/environment/library_path.dsv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__builder.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__struct.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__traits.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__type_support.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/rotate_absolute.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/color.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__builder.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__struct.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__traits.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__type_support.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__builder.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__struct.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__traits.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__type_support.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/pose.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_generator_cpp__visibility_control.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__builder.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__struct.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__traits.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__type_support.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__builder.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__struct.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__traits.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__type_support.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__builder.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__struct.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__traits.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__type_support.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__builder.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__struct.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__traits.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__type_support.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__builder.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__struct.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__traits.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__type_support.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/kill.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/set_pen.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/spawn.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_absolute.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/teleport_relative.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/action/detail/rotate_absolute__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/color__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/msg/detail/pose__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/kill__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/set_pen__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/spawn__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_absolute__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/include/turtlesim/turtlesim/srv/detail/teleport_relative__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/environment/pythonpath.sh
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/environment/pythonpath.dsv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/PKG-INFO
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/SOURCES.txt
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/dependency_links.txt
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim-1.4.2-py3.10.egg-info/top_level.txt
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/__init__.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_c.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_fastrtps_c.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/_turtlesim_s.ep.rosidl_typesupport_introspection_c.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/__init__.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/_rotate_absolute.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/_rotate_absolute_s.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/libturtlesim__rosidl_generator_py.so
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/__init__.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_color.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_color_s.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_pose.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_pose_s.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/__init__.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_kill.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_kill_s.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_set_pen.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_set_pen_s.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_spawn.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_spawn_s.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_absolute.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_absolute_s.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_relative.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_relative_s.c
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date symlink: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date symlink: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+-- Up-to-date symlink: /home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/turtlesim_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/action/RotateAbsolute.idl
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/msg/Color.idl
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/msg/Pose.idl
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/Kill.idl
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/SetPen.idl
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/Spawn.idl
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/TeleportAbsolute.idl
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/TeleportRelative.idl
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/action/RotateAbsolute.action
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/msg/Color.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/msg/Pose.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/Kill.srv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/Kill_Request.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/Kill_Response.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/SetPen.srv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/SetPen_Request.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/SetPen_Response.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/Spawn.srv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/Spawn_Request.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/Spawn_Response.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/TeleportAbsolute.srv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/TeleportAbsolute_Request.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/TeleportAbsolute_Response.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/TeleportRelative.srv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/TeleportRelative_Request.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/srv/TeleportRelative_Response.msg
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/lib/turtlesim/turtlesim_node
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/lib/turtlesim/turtle_teleop_key
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/lib/turtlesim/draw_square
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/lib/turtlesim/mimic
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/launch/multisim.launch.py
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/ament_index/resource_index/package_run_dependencies/turtlesim
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/ament_index/resource_index/parent_prefix_path/turtlesim
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/environment/ament_prefix_path.sh
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/environment/ament_prefix_path.dsv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/environment/path.sh
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/environment/path.dsv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/local_setup.bash
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/local_setup.sh
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/local_setup.zsh
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/local_setup.dsv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/package.dsv
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/ament_index/resource_index/packages/turtlesim
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/rosidl_cmake-extras.cmake
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/ament_cmake_export_targets-extras.cmake
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/turtlesimConfig.cmake
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/turtlesimConfig-version.cmake
+-- Symlinking: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/package.xml
+-- Installing: /home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_generator_c.so
+-- Set runtime path of "/home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_generator_c.so" to ""
+-- Installing: /home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_c.so
+-- Set runtime path of "/home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_c.so" to ""
+-- Installing: /home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_cpp.so
+-- Set runtime path of "/home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_fastrtps_cpp.so" to ""
+-- Installing: /home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_c.so
+-- Set runtime path of "/home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_c.so
+-- Set runtime path of "/home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_c.so" to ""
+-- Installing: /home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_cpp.so
+-- Set runtime path of "/home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_introspection_cpp.so" to ""
+-- Installing: /home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_cpp.so
+-- Set runtime path of "/home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_typesupport_cpp.so" to ""
+Listing '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/__init__.py'...
+Listing '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/__init__.py'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/action/_rotate_absolute.py'...
+Listing '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/__init__.py'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_color.py'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/msg/_pose.py'...
+Listing '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/__init__.py'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_kill.py'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_set_pen.py'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_spawn.py'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_absolute.py'...
+Compiling '/home/tatsv/ros-test/install/turtlesim/local/lib/python3.10/dist-packages/turtlesim/srv/_teleport_relative.py'...
+-- Installing: /home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_generator_py.so
+-- Set runtime path of "/home/tatsv/ros-test/install/turtlesim/lib/libturtlesim__rosidl_generator_py.so" to ""
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/images
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/images/dashing.png
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/images/ardent.png
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/images/galactic.png
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/images/bouncy.png
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/images/humble.png
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/images/foxy.png
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/images/crystal.png
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/images/eloquent.png
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/images/rolling.png
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cExport.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cExport-noconfig.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cExport.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_cppExport.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cppExport.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cExport.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cExport.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cExport-noconfig.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cppExport.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cppExport.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/turtlesim__rosidl_typesupport_cppExport-noconfig.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_pyExport.cmake
+-- Installing: /home/tatsv/ros-test/install/turtlesim/share/turtlesim/cmake/export_turtlesim__rosidl_generator_pyExport-noconfig.cmake

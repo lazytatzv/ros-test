@@ -1,0 +1,1 @@
+/home/tatsv/ros-test/build/my_chatter_package/ament_cmake_environment_hooks/local_setup.bash

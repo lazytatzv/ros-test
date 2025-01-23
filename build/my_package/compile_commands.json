@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tatsv/ros-test/build/my_package",
+  "command": "/usr/bin/c++  -I/home/tatsv/ros-test/src/my_package/include -Wall -Wextra -Wpedantic -o CMakeFiles/my_node.dir/src/my_node.cpp.o -c /home/tatsv/ros-test/src/my_package/src/my_node.cpp",
+  "file": "/home/tatsv/ros-test/src/my_package/src/my_node.cpp"
+}
+]

@@ -1,0 +1,16 @@
+/home/tatsv/ros-test/install/my_chatter_package/lib/my_chatter_package/my_chatter
+/home/tatsv/ros-test/install/my_chatter_package/share/ament_index/resource_index/package_run_dependencies/my_chatter_package
+/home/tatsv/ros-test/install/my_chatter_package/share/ament_index/resource_index/parent_prefix_path/my_chatter_package
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/ament_prefix_path.sh
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/ament_prefix_path.dsv
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/path.sh
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/environment/path.dsv
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.bash
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.sh
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.zsh
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/local_setup.dsv
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/package.dsv
+/home/tatsv/ros-test/install/my_chatter_package/share/ament_index/resource_index/packages/my_chatter_package
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/cmake/my_chatter_packageConfig.cmake
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/cmake/my_chatter_packageConfig-version.cmake
+/home/tatsv/ros-test/install/my_chatter_package/share/my_chatter_package/package.xml

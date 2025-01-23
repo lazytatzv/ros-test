@@ -1,0 +1,53 @@
+[0.081s] Invoking command in '/home/tatsv/ros-test/build/my_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/tatsv/ros-test/src/my_package -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tatsv/ros-test/install/my_package
+[0.299s] -- The C compiler identification is GNU 11.4.0
+[0.932s] -- The CXX compiler identification is GNU 11.4.0
+[1.350s] -- Detecting C compiler ABI info
+[1.701s] -- Detecting C compiler ABI info - done
+[1.724s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.724s] -- Detecting C compile features
+[1.725s] -- Detecting C compile features - done
+[1.734s] -- Detecting CXX compiler ABI info
+[1.995s] -- Detecting CXX compiler ABI info - done
+[2.011s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.011s] -- Detecting CXX compile features
+[2.013s] -- Detecting CXX compile features - done
+[2.017s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.351s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.495s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.546s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.722s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.722s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/tatsv/ros-test/src/my_package/include>
+[2.723s] -- Configured cppcheck exclude dirs and/or files: 
+[2.724s] -- Added test 'lint_cmake' to check CMake code style
+[2.726s] -- Added test 'uncrustify' to check C / C++ code style
+[2.726s] -- Configured uncrustify additional arguments: 
+[2.728s] -- Added test 'xmllint' to check XML markup files
+[2.731s] -- Configuring done
+[2.740s] -- Generating done
+[2.743s] -- Build files have been written to: /home/tatsv/ros-test/build/my_package
+[2.752s] Invoked command in '/home/tatsv/ros-test/build/my_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/tatsv/ros-test/src/my_package -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/tatsv/ros-test/install/my_package
+[2.758s] Invoking command in '/home/tatsv/ros-test/build/my_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tatsv/ros-test/build/my_package -- -j12 -l12
+[2.848s] [ 50%] [32mBuilding CXX object CMakeFiles/my_node.dir/src/my_node.cpp.o[0m
+[2.909s] [100%] [32m[1mLinking CXX executable my_node[0m
+[3.090s] [100%] Built target my_node
+[3.137s] Invoked command in '/home/tatsv/ros-test/build/my_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tatsv/ros-test/build/my_package -- -j12 -l12
+[3.152s] Invoking command in '/home/tatsv/ros-test/build/my_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/tatsv/ros-test/build/my_package
+[3.164s] -- Install configuration: ""
+[3.165s] -- Execute custom install script
+[3.167s] -- Symlinking: /home/tatsv/ros-test/install/my_package/lib/my_package/my_node
+[3.184s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+[3.203s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+[3.218s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/environment/ament_prefix_path.sh
+[3.234s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+[3.249s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/environment/path.sh
+[3.264s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/environment/path.dsv
+[3.283s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/local_setup.bash
+[3.296s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/local_setup.sh
+[3.311s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/local_setup.zsh
+[3.328s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/local_setup.dsv
+[3.342s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/package.dsv
+[3.366s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/ament_index/resource_index/packages/my_package
+[3.399s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+[3.421s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+[3.444s] -- Symlinking: /home/tatsv/ros-test/install/my_package/share/my_package/package.xml
+[3.468s] Invoked command in '/home/tatsv/ros-test/build/my_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/tatsv/ros-test/build/my_package
